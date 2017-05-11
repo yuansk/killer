@@ -1,0 +1,2 @@
+# killer
+lang ren kill
